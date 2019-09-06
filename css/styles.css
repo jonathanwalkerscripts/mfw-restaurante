@@ -1,2 +1,34 @@
-font-family: 'Lobster', cursive;
-font-family: 'Playfair Display', serif;
+/* font-family: 'Lobster', cursive;
+font-family: 'Playfair Display', serif; */
+
+.navbar-inverse {
+    margin-bottom: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}
+
+nav a{
+    color:white;
+}
+
+/* Carousel */
+
+.carousel-caption {
+    padding-top: 0px;
+}
+
+.carousel-caption img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 3em;
+}
+
+.carousel-caption button {
+    background-color: #f27830;
+    margin-bottom: 10px;
+}
+
+button a {
+    color: white;
+}
